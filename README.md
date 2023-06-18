@@ -36,9 +36,9 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihussnain-04&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<!-- GitHub Activity -->
+## GitHub Activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihussnain-04&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihussnain-04" alt="GitHub Streak" /></p>
-
+<a href="https://github.com/alihussnain-04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihussnain-04&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" alt="GitHub Stats" />
+</a>
